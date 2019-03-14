@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="structures">
+      <UniqueIdentifier>{b43af56d-a963-4533-a304-d619ef0c3ca7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\array">
+      <UniqueIdentifier>{502bbc44-0f83-4033-97a5-c5924d61b278}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\list">
+      <UniqueIdentifier>{73abb9ab-8b86-46b8-9618-07d1a35793a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\priority_queue">
+      <UniqueIdentifier>{ba840c9b-2a9e-412e-87e9-bc8c7f3d6df4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\queue">
+      <UniqueIdentifier>{7f003383-d138-4d31-96df-b79b766e5526}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\stack">
+      <UniqueIdentifier>{848309aa-ac18-4036-8588-f046da59dd53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="structures\vector">
+      <UniqueIdentifier>{48205a95-cae6-46ee-a635-3a6017128e6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Exceptions">
+      <UniqueIdentifier>{963310ed-6854-44c9-88e6-80365af1524e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Date.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BiofarmerManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Biofarmer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Intermediate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterOrder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Order.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AVehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VehicleManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Storage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Company.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Customer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomerManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\ds_routines.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\ds_structure_types.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\heap_monitor.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\memory_routines.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\structure.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\structure_iterator.h">
+      <Filter>structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\array\array.h">
+      <Filter>structures\array</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\array_list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\linked_list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\list.h">
+      <Filter>structures\list</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\vector\vector.h">
+      <Filter>structures\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\stack\explicit_stack.h">
+      <Filter>structures\stack</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\stack\implicit_stack.h">
+      <Filter>structures\stack</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\stack\stack.h">
+      <Filter>structures\stack</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\queue\explicit_queue.h">
+      <Filter>structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\queue\implicit_queue.h">
+      <Filter>structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\queue\queue.h">
+      <Filter>structures\queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\heap.h">
+      <Filter>structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue.h">
+      <Filter>structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_limited_sorted_array_list.h">
+      <Filter>structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_linked_list.h">
+      <Filter>structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_list.h">
+      <Filter>structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_sorted_array_list.h">
+      <Filter>structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_two_lists.h">
+      <Filter>structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\priority_queue\priority_queue_unsorted_array_list.h">
+      <Filter>structures\priority_queue</Filter>
+    </ClInclude>
+    <ClInclude Include="NoInterException.h">
+      <Filter>Header Files\Exceptions</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PersonManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Date.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BiofarmerManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Biofarmer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Intermediate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterOrder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Order.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AVehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VehicleManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Storage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Company.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Customer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomerManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\ds_routines.cpp">
+      <Filter>structures</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\memory_routines.cpp">
+      <Filter>structures</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\structure.cpp">
+      <Filter>structures</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\vector\vector.cpp">
+      <Filter>structures\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

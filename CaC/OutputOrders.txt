@@ -1,0 +1,125 @@
+Hotel Park
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 19.04.2018
+Prijata: ANO
+Mnozstvo: 30    Predajna cena: 0.7
+
+SPA Madagaskar
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 25.04.2018
+Prijata: ANO
+Mnozstvo: 50    Predajna cena: 0.7
+
+Lanovy park Dino-Adventure
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 14.04.2018
+Prijata: ANO
+Mnozstvo: 1000    Predajna cena: 1.1
+
+Hotel Turiec
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 20.04.2018
+Prijata: ANO
+Mnozstvo: 2780    Predajna cena: 0.8
+
+Pizzeria Michaelo
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 05.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 20    Predajna cena: 0.5
+
+SPA Madagaskar
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 500    Predajna cena: 0.9
+
+Lanovy park Dino-Adventure
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 12.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 200    Predajna cena: 1.4
+
+Pohostinstvo Polovnik, RK
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 12.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 10    Predajna cena: 1
+
+Galeria Mikulasa Galandu
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 12.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 2000    Predajna cena: 0.6
+
+Chips Reviews SK s.r.o.
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 12.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 10000    Predajna cena: 0.5
+
+Hotel Turiec
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 12.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 8000    Predajna cena: 0.6
+
+Pohostinstvo Polovnik, RK
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 08.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 10    Predajna cena: 1
+
+Snowparadise Velka Raca
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 12.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 5000    Predajna cena: 1
+
+Pizzeria Michaelo
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 3000    Predajna cena: 0.5
+
+U vody, Namestovo
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 200    Predajna cena: 1.2
+
+Pizzeria Michaelo
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 12.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 5000    Predajna cena: 0.8
+
+Mosovske aleje
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 12.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 10000    Predajna cena: 0.7
+
+Azet s.k.
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 30    Predajna cena: 0.9
+
+Azet s.k.
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 20    Predajna cena: 1.1
+
+Kupalisko Cajka, Rajec
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 25.03.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 100    Predajna cena: 1.2
+
+Mosovske aleje
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 500    Predajna cena: 0.8
+
+Tatralandia
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 10000    Predajna cena: 1
+
+Tatralandia
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 10000    Predajna cena: 1.2
+
+Pizzeria Michaelo
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 11.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 20    Predajna cena: 0.5
+
+SPA Madagaskar
+Datum zaevidovania: 07.04.2018. Datum vybavenia: 01.04.2018
+Prijata: NIE	Vybavena: NIE
+Mnozstvo: 100    Predajna cena: 0.7
+
